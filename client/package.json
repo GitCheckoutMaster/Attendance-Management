@@ -10,13 +10,27 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "address": "^2.0.3",
+    "ava": "^6.2.0",
+    "buffer-equal": "^1.0.1",
+    "get-mac-address": "^1.0.0",
+    "getmac": "^6.4.0",
+    "html5-qrcode": "^2.3.8",
+    "mac-address": "^0.3.0",
+    "macaddress-local-machine": "^1.0.7",
+    "meow": "^13.2.0",
     "modern-react-qr-reader": "^1.0.12",
+    "network": "^0.7.0",
+    "node-getmac": "^1.0.3",
+    "node-mac-address": "^1.0.0",
+    "qr-scanner": "^1.4.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-hook-form": "^7.54.2",
     "react-qr-code": "^2.0.15",
     "react-qr-reader": "^3.0.0-beta-1",
-    "react-router-dom": "^7.1.5"
+    "react-router-dom": "^7.1.5",
+    "react-zxing": "^2.0.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.19.0",

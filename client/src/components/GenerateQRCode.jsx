@@ -7,7 +7,7 @@ function GenerateQRCode() {
 
   // Todo: Faculty authentication
 	const value = {
-    "facultyId": localStorage.getItem("user").id,
+    "facultyId": localStorage.getItem("user")?.id,
     "date": new Date().toISOString(),
   }
 
